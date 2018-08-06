@@ -34,3 +34,8 @@ Run
 ```
 
 Example comes from [here](http://python-rq.org/docs/).
+
+Result
+------
+
+![example of it working](result.gif)
